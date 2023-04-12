@@ -4,7 +4,7 @@
 
 ## Features
 
-### - Job search functionality: Users can search for jobs based on various criteria such as job title, location, and industry.
+### * Job search functionality: Users can search for jobs based on various criteria such as job title, location, and industry.
 *Job listing pages: Each job listing page includes detailed information about the job, including the job title, company name, location, and job description.
 *Application submission: Users can submit job applications directly through the website.
 *User accounts: Users can create accounts to save job listings, track their application status, and receive notifications about new job listings.
