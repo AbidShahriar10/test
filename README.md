@@ -1,8 +1,8 @@
-#Top-Jobs
+# Top-Jobs
 
-###Top-Jobs is a website that allows job seekers to search and apply for job listings posted by employers. The website features a user-friendly interface and a robust search functionality that allows users to find jobs based on various criteria such as job title, location, and industry.
+### Top-Jobs is a website that allows job seekers to search and apply for job listings posted by employers. The website features a user-friendly interface and a robust search functionality that allows users to find jobs based on various criteria such as job title, location, and industry.
 
-##Features
+## Features
 
 ###
 *Job search functionality: Users can search for jobs based on various criteria such as job title, location, and industry.
